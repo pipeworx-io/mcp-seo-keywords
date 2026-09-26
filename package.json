@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-seo-keywords",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SEO Keywords MCP — search volume & difficulty via DataForSEO Labs (dataforseo.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-be2017cb4c18c64b2db4fe727c97ac5d00f8ebe9f8b427c2433aa44696d212b8",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-105cfde4bfc3ca4e4495acdf1c3a753366d581bdc96f92a7b2ffe079611cf671",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
