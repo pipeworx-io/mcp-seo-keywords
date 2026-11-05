@@ -1,7 +1,7 @@
 [
   {
     "name": "seo_keyword_overview",
-    "description": "Monthly search volume & difficulty for `<keyword>` — returns Google search volume, keyword difficulty (0-100), CPC, and competition for up to 10 keywords at once. Keyword research for SEO. Example: seo_keyword_overview({ keywords: [\"running shoes\", \"trail shoes\"], location_code: 2840, _apiKey: \"your-base64-key\" })",
+    "description": "Monthly search volume & difficulty for `<keyword>` — returns Google search volume, keyword difficulty (0-100), CPC, and competition for up to 10 keywords at once. Keyword research for SEO. Example: seo_keyword_overview({ keywords: [\"running shoes\", \"trail shoes\"], location_code: 2840 })",
     "inputSchema": {
       "type": "object",
       "properties": {
